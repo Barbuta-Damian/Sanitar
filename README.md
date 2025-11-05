@@ -1,1 +1,1 @@
-am corectat o gresala
+am corectat o greseala
